@@ -1,0 +1,5 @@
+C:\Wahalafree.com\WahalafreeAPI\obj\Debug\netcoreapp3.1\WahalafreeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wahalafree.com\WahalafreeAPI\obj\Debug\netcoreapp3.1\WahalafreeAPI.AssemblyInfoInputs.cache
+C:\Wahalafree.com\WahalafreeAPI\obj\Debug\netcoreapp3.1\WahalafreeAPI.AssemblyInfo.cs
+C:\Wahalafree.com\WahalafreeAPI\obj\Debug\netcoreapp3.1\WahalafreeAPI.csproj.CoreCompileInputs.cache
+C:\Wahalafree.com\WahalafreeAPI\obj\Debug\netcoreapp3.1\WahalafreeAPI.MvcApplicationPartsAssemblyInfo.cache
